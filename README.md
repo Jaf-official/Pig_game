@@ -3,6 +3,7 @@ Pig game is a classic dice game that combines strategy and chance. The goal of t
 
 # How to Play
 Gameplay:
+The game is tailored exclusively for desktop gameplay, offering an optimal experience on larger screens.
 
 Players take turns rolling the dice.
 
@@ -22,3 +23,5 @@ The dice are passed to the next player.
 The points rolled on the dice are added to the player's turn score.
 If a player chooses to "Hold," their turn score is added to their total score.
 The first player to reach or exceed the winning score wins the game.
+
+
