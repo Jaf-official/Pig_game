@@ -1,5 +1,5 @@
 # Pig_game
-Pig game is a classic dice game that combines strategy and chance. The goal of the game is simple: be the first player to reach a certain score, but beware of rolling a "pig" (a 1) and losing your turn!
+Pig game is a classic dice game that combines strategy and chance. The goal of the game is simple: be the first player to reach a certain score, but beware of rolling a "pig" (a 1) and losing your turn!!
 
 # How to Play
 Gameplay:
